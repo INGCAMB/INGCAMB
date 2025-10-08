@@ -11,7 +11,8 @@
 - 🎯 Actualmente enfocado en mejorar mis habilidades en **Node.js**, **React** y **Python**.
 - 💡 Me encanta crear aplicaciones funcionales con interfaces simples y claras.
 - 🎓 Experiencia con **Windows Forms (C#)**, desarrollo en **PHP**, manejo de bases de datos como **MySQL**, **SQL Server** y **MongoDB**.
-- 📱 También he trabajado con **Android Studio (Java)**.
+- 📱 También he trabajado con **Android Studio (Java)** y con ejemplos practicos de **Android Studio (Kotlin)**.
+- 🚀 Experiencia con spring.
 - 🚀 Buscando oportunidades para seguir creciendo como desarrollador.
 
 ---
@@ -89,9 +90,12 @@
 
 > Aquí puedes agregar enlaces a tus mejores proyectos con una breve descripción. Por ejemplo:
 
-- 🎮 [**Gestor de Ventas (C#)**](#): Sistema de ventas con Windows Forms y conexión a base de datos SQL Server.
+- 🎮 [**Sistema de Facturación CFDI 4.0 (C#)**](#): Sistema de facturas con Windows Forms y conexión a base de datos MySQL.
+- 🎮 [**Gestor de Remisiones (C#)**](#): Sistema de remisiones con Windows Forms y conexión a base de datos SQL Server.
 - 🌐 [**Sitio web empresarial (PHP + MySQL)**](#): Página web responsive con funcionalidades CRUD y sistema de login.
 - 📱 [**App Android Java**](#): Aplicación de agenda personal conectada a base de datos local.
+- 📱 [**App Android Java**](#): Aplicación de control de inventarios, checklist y creacion de remisiones con fotografia en PDF personal conectada a base de datos MySQL con NO-IP y PHP (Apache).
+- 📱 [**App Android Java**](#): Aplicación de restaurantes personal conectada a base de datos de nube con FireBase.
 
 ---
 
