@@ -90,12 +90,12 @@
 
 > Aquí puedes agregar enlaces a tus mejores proyectos con una breve descripción. Por ejemplo:
 
-- 🎮 [**Sistema de Facturación CFDI 4.0 (C#)**](#): Sistema de facturas con Windows Forms y conexión a base de datos MySQL.
-- 🎮 [**Gestor de Remisiones (C#)**](#): Sistema de remisiones con Windows Forms y conexión a base de datos SQL Server.
+- 🎮 [**Sistema de Facturación CFDI 4.0 (C# + MySQL)**](#): Sistema de facturas con Windows Forms y conexión a base de datos MySQL.
+- 🎮 [**Gestor de Remisiones (C# + SQLServer)**](#): Sistema de remisiones con Windows Forms y conexión a base de datos SQL Server.
 - 🌐 [**Sitio web empresarial (PHP + MySQL)**](#): Página web responsive con funcionalidades CRUD y sistema de login.
-- 📱 [**App Android Java**](#): Aplicación de agenda personal conectada a base de datos local.
-- 📱 [**App Android Java**](#): Aplicación de control de inventarios, checklist y creacion de remisiones con fotografia en PDF personal conectada a base de datos MySQL con NO-IP y PHP (Apache).
-- 📱 [**App Android Java**](#): Aplicación de restaurantes personal conectada a base de datos de nube con FireBase.
+- 📱 [**App Android Java (+ SQLite)**](#): Aplicación de agenda personal conectada a base de datos local.
+- 📱 [**App Android Java (PHP + MySQL + No-Ip)**](#): Aplicación de control de inventarios, checklist y creacion de remisiones con fotografia en PDF personal conectada a base de datos MySQL con NO-IP y PHP (Apache).
+- 📱 [**App Android Java (+ FireBase)**](#): Aplicación de restaurantes personal conectada a base de datos de nube con FireBase.
 
 ---
 
