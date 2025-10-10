@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Ing. Alberto Beltran</h1>
 
 <p align="center">
-💻 Programador con experiencia en desarrollo de escritorio, web y bases de datos. Apasionado por la tecnología, el aprendizaje constante y la creación de soluciones eficientes.
+💻 Programador con experiencia en desarrollo de escritorio, web, móvil y bases de datos. Apasionado por la tecnología, el aprendizaje constante y la creación de soluciones eficientes.
 </p>
 
 ---
